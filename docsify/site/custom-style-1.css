@@ -1,0 +1,20 @@
+section.cover {
+    background: url(_media/mountain.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+
+button.sidebar-toggle {
+    top:0;
+    bottom:auto;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 2em;
+}
+
+article > h1 {
+    text-align: center;
+}
